@@ -3,6 +3,10 @@ Before running your bot in production you will need to setup few
 external API. In production mode the bot required valid Bittrex API
 credentials and a Telegram bot (optionnal but recommended).
 
+## Table of Contents
+- [Setup your Bittrex account](#setup-your-bittrex-account)
+- [Backtesting commands](#setup-your-telegram-bot)
+
 ## Setup your Bittrex account
 *To be completed, please feel free to complete this section.*
 

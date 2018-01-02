@@ -7,8 +7,8 @@ reach us on
 
 ## Table of Contents
 - [Pre-requisite](https://github.com/gcarq/freqtrade/blob/develop/docs/pre-requisite.md)
-	- Setup your Bittrex account
-	- Setup your Telegram bot
+	- [Setup your Bittrex account](https://github.com/gcarq/freqtrade/blob/develop/docs/pre-requisite.md#setup-your-bittrex-account)
+	- [Setup your Telegram bot](https://github.com/gcarq/freqtrade/blob/develop/docs/pre-requisite.md#setup-your-telegram-bot)
 - [Bot Installation](https://github.com/gcarq/freqtrade/blob/develop/docs/installation.md)
     - [Install with Docker (all platforms)](https://github.com/gcarq/freqtrade/blob/develop/docs/installation.md#docker)
     - [Install on Linux Ubuntu](https://github.com/gcarq/freqtrade/blob/develop/docs/installation.md#21-linux---ubuntu-1604)
